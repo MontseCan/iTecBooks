@@ -1,4 +1,2 @@
-Version 1.2.1.
-https://scaffoldhub.io
+Equipo 3: Biblioteca iTecBokks
 
-This code can only be used for academic and learning purposes.
