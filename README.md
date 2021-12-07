@@ -1,2 +1,2 @@
-Equipo 3: Biblioteca iTecBokks
+Equipo 3: Biblioteca iTecBooks
 
